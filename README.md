@@ -1,1 +1,1 @@
-# classroom-ui
+# classrooms-ui
