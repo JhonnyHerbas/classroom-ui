@@ -1,0 +1,29 @@
+header {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  padding: 1.3rem 10%;
+  background: red;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  z-index: 1;
+
+  .cl-logo {
+    font-size: 2rem;
+    font-weight: bold;
+    color: white;
+  }
+
+  .cl-navbar {
+    font-size: 1.15rem;
+    font-weight: bolder;
+    display: flex;
+    gap: 2.5rem;
+
+    .cl-navbar-option {
+      color: white;
+    }
+  }
+}
